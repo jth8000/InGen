@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InGen</string>
+    <string name="cycle_start">Start Cycle</string>
+    <string name="cycle_settings">Cycle Settings</string>
+    <string name="cycle_settings_prompt">Change Cycle Time Below</string>
+    <string name="commit_button">Commit</string>
+    <string name="preference_string">Time String</string>
+</resources>
